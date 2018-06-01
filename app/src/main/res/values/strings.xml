@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Work</string>
+    <string name="music">音乐</string>
+    <string name="file">文件</string>
+    <string name="app">应用</string>
+    <string name="album">相册</string>
+    <string name="calendar">日历</string>
 </resources>
